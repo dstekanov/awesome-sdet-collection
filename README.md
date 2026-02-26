@@ -20,6 +20,7 @@ Items marked with ⭐ are authored or maintained by the curator of this list.
 - [CI/CD & Infrastructure](#cicd--infrastructure)
 - [AI-Assisted Testing](#ai-assisted-testing)
 - [AI Agents for Testing](#ai-agents-for-testing)
+- [AI Agent Skills](#ai-agent-skills)
 - [Learning Resources](#learning-resources)
 - [Own Projects](#own-projects)
 
@@ -151,6 +152,16 @@ Items marked with ⭐ are authored or maintained by the curator of this list.
 - [ZeroStep](https://github.com/zerostep-ai/zerostep) - Natural language AI actions that run directly inside Playwright tests.
 - [Shortest](https://github.com/anti-work/shortest) - AI-first end-to-end testing via natural language test definitions.
 - [AgentQL](https://github.com/tinyfish-io/agentql) - Query language and agent for natural language web automation and scraping.
+
+---
+
+## AI Agent Skills
+
+> Portable, reusable skills for AI agents following the [agentskills.io specification](https://agentskills.io/specification). Drop them into any compatible agent to extend its SDET capabilities.
+
+- ⭐ [generate-playwright-test](./skills/generate-playwright-test/SKILL.md) - Generate Playwright TypeScript e2e test files from BDD scenarios, classic test cases, or free-form descriptions.
+
+→ [Browse all skills](./skills/README.md)
 
 ---
 
