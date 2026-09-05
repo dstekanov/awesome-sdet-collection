@@ -147,6 +147,7 @@ Items marked with ⭐ are authored or maintained by the curator of this list.
 
 ## AI Agents for Testing
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Runs natural-language web, Android, and iOS tests with execution memory, UI recovery, and MCP tools; source-available (FSL-1.1-ALv2).
 - [Browser Use](https://github.com/browser-use/browser-use) - Open-source agent that controls browsers using natural language instructions.
 - [Stagehand](https://github.com/browserbase/stagehand) - AI-native browser automation framework built on Playwright by Browserbase.
 - [ZeroStep](https://github.com/zerostep-ai/zerostep) - Natural language AI actions that run directly inside Playwright tests.
