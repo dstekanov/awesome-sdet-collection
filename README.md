@@ -117,6 +117,7 @@ Items marked with ⭐ are authored or maintained by the curator of this list.
 - [WireMock](https://github.com/wiremock/wiremock) - Flexible API mocking tool for testing.
 - [Mockoon](https://github.com/mockoon/mockoon) - Easy and fast mock servers, desktop and CLI.
 - [json-server](https://github.com/typicode/json-server) - Full fake REST API with zero coding.
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter, viewer and diff tool for inspecting API responses and test data.
 - [Testcontainers](https://github.com/testcontainers/testcontainers-java) - Lightweight, throwaway instances of common databases and services via Docker.
 
 ---
